@@ -1,0 +1,20 @@
+INFO:root:Объем бочки - 200
+INFO:root:Текущий объем воды в бочке - 190
+INFO:root:Кол-во попыток pour - 5
+INFO:root:Процент ошибок pour - 40.0%
+INFO:root:Объем pour за период - 100
+INFO:root:Объем pourError за период - 160
+INFO:root:Кол-во попыток scoop - 4
+INFO:root:Процент ошибок scoop - 50.0%
+INFO:root:Объем scoop за период - 110
+INFO:root:Объем scoopError за период - 260
+INFO:root:Объем бочки - 200
+INFO:root:Текущий объем воды в бочке - 190
+INFO:root:Кол-во попыток pour - 5
+INFO:root:Процент ошибок pour - 40.0%
+INFO:root:Объем pour за период - 100
+INFO:root:Объем pourError за период - 160
+INFO:root:Кол-во попыток scoop - 4
+INFO:root:Процент ошибок scoop - 50.0%
+INFO:root:Объем scoop за период - 110
+INFO:root:Объем scoopError за период - 260
